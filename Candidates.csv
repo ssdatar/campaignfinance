@@ -1,0 +1,307 @@
+Candidate,State,Name,Past,Amount
+rubio,AK,Alaska,R,10.5
+rubio,AL,Alabama,R,10.47
+rubio,AR,Arkansas,R,4.55
+rubio,AZ,Arizona,R,46.13
+rubio,CA,California,D,82.55
+rubio,CO,Colorado,D,26.85
+rubio,CT,Connecticut,D,54.03
+rubio,DC,Washington DC,D,319.87
+rubio,DE,Delaware,D,5.52
+rubio,FL,Florida,D,197.42
+rubio,GA,Georgia,R,30.08
+rubio,HI,Hawaii,D,9.99
+rubio,IA,Iowa,D,10.06
+rubio,ID,Idaho,R,18.54
+rubio,IL,Illinois,D,38.78
+rubio,IN,Indiana,R,18.67
+rubio,KS,Kansas,R,11.33
+rubio,KY,Kentucky,R,8.24
+rubio,LA,Louisiana,R,31.8
+rubio,MA,Massachusetts,D,89.38
+rubio,MD,Maryland,D,25.33
+rubio,ME,Maine,D,4.88
+rubio,MI,Michigan,D,10.87
+rubio,MN,Minnesota,D,7.75
+rubio,MO,Missouri,R,12.02
+rubio,MS,Mississippi,R,6.86
+rubio,MT,Montana,R,23.52
+rubio,NC,North Carolina,R,14.24
+rubio,ND,North Dakota,R,4.46
+rubio,NE,Nebraska,R,10.03
+rubio,NH,New Hampshire,D,28.83
+rubio,NJ,New Jersey,D,28.46
+rubio,NM,New Mexico,D,5.76
+rubio,NV,Nevada,D,77.67
+rubio,NY,New York,D,56.65
+rubio,OH,Ohio,D,30.47
+rubio,OK,Oklahoma,R,11.93
+rubio,OR,Oregon,D,12.9
+rubio,PA,Pennsylvania,D,20.67
+rubio,RI,Rhode Island,D,6.24
+rubio,SC,South Carolina,R,70.88
+rubio,SD,South Dakota,R,9.63
+rubio,TN,Tennessee,R,19.38
+rubio,TX,Texas,R,65.52
+rubio,UT,Utah,R,9.64
+rubio,VA,Virginia,D,55.01
+rubio,VT,Vermont,D,111.08
+rubio,WA,Washington,D,31.21
+rubio,WI,Wisconsin,D,7.66
+rubio,WV,West Virginia,R,1.52
+rubio,WY,Wyoming,R,40.24
+clinton,AK,Alaska,R,42.12
+clinton,AL,Alabama,R,26.26
+clinton,AR,Arkansas,R,180.86
+clinton,AZ,Arizona,R,41.66
+clinton,CA,California,D,364.67
+clinton,CO,Colorado,D,259.93
+clinton,CT,Connecticut,D,320.75
+clinton,DC,Washington DC,D,5307.21
+clinton,DE,Delaware,D,51.81
+clinton,FL,Florida,D,219.94
+clinton,GA,Georgia,R,89.54
+clinton,HI,Hawaii,D,39.26
+clinton,IA,Iowa,D,36.95
+clinton,ID,Idaho,R,29.59
+clinton,IL,Illinois,D,205.93
+clinton,IN,Indiana,R,62.6
+clinton,KS,Kansas,R,68.07
+clinton,KY,Kentucky,R,21.25
+clinton,LA,Louisiana,R,84.99
+clinton,MA,Massachusetts,D,398.42
+clinton,MD,Maryland,D,361.89
+clinton,ME,Maine,D,155.73
+clinton,MI,Michigan,D,69.23
+clinton,MN,Minnesota,D,163.12
+clinton,MO,Missouri,R,164.4
+clinton,MS,Mississippi,R,27.42
+clinton,MT,Montana,R,28.15
+clinton,NC,North Carolina,R,81.28
+clinton,ND,North Dakota,R,12.31
+clinton,NE,Nebraska,R,20.06
+clinton,NH,New Hampshire,D,153.92
+clinton,NJ,New Jersey,D,178.74
+clinton,NM,New Mexico,D,182.32
+clinton,NV,Nevada,D,160.51
+clinton,NY,New York,D,578.46
+clinton,OH,Ohio,D,66.2
+clinton,OK,Oklahoma,R,37.72
+clinton,OR,Oregon,D,120.53
+clinton,PA,Pennsylvania,D,129.64
+clinton,RI,Rhode Island,D,261.07
+clinton,SC,South Carolina,R,71.93
+clinton,SD,South Dakota,R,36.53
+clinton,TN,Tennessee,R,57.44
+clinton,TX,Texas,R,134.58
+clinton,UT,Utah,R,93.77
+clinton,VA,Virginia,D,249.49
+clinton,VT,Vermont,D,108.99
+clinton,WA,Washington,D,141.73
+clinton,WI,Wisconsin,D,45.96
+clinton,WV,West Virginia,R,27.15
+clinton,WY,Wyoming,R,45.81
+cruz,AK,Alaska,R,27.06
+cruz,AL,Alabama,R,31.45
+cruz,AR,Arkansas,R,20.54
+cruz,AZ,Arizona,R,36.26
+cruz,CA,California,D,37.82
+cruz,CO,Colorado,D,59.66
+cruz,CT,Connecticut,D,28.74
+cruz,DC,Washington DC,D,107.59
+cruz,DE,Delaware,D,33.07
+cruz,FL,Florida,D,58.95
+cruz,GA,Georgia,R,46.29
+cruz,HI,Hawaii,D,30.79
+cruz,IA,Iowa,D,25.82
+cruz,ID,Idaho,R,27.73
+cruz,IL,Illinois,D,37.98
+cruz,IN,Indiana,R,18.04
+cruz,KS,Kansas,R,36.71
+cruz,KY,Kentucky,R,17.29
+cruz,LA,Louisiana,R,34.48
+cruz,MA,Massachusetts,D,12.2
+cruz,MD,Maryland,D,25.72
+cruz,ME,Maine,D,7.54
+cruz,MI,Michigan,D,22.3
+cruz,MN,Minnesota,D,12.32
+cruz,MO,Missouri,R,57.52
+cruz,MS,Mississippi,R,13.84
+cruz,MT,Montana,R,44.51
+cruz,NC,North Carolina,R,29.9
+cruz,ND,North Dakota,R,14.69
+cruz,NE,Nebraska,R,15.97
+cruz,NH,New Hampshire,D,23.93
+cruz,NJ,New Jersey,D,19.98
+cruz,NM,New Mexico,D,66.11
+cruz,NV,Nevada,D,35.69
+cruz,NY,New York,D,34.99
+cruz,OH,Ohio,D,24.24
+cruz,OK,Oklahoma,R,50.17
+cruz,OR,Oregon,D,22.29
+cruz,PA,Pennsylvania,D,32.53
+cruz,RI,Rhode Island,D,11.57
+cruz,SC,South Carolina,R,31.08
+cruz,SD,South Dakota,R,18.51
+cruz,TN,Tennessee,R,37.99
+cruz,TX,Texas,R,503.96
+cruz,UT,Utah,R,23.41
+cruz,VA,Virginia,D,51.68
+cruz,VT,Vermont,D,25.68
+cruz,WA,Washington,D,34.81
+cruz,WI,Wisconsin,D,7.79
+cruz,WV,West Virginia,R,65.49
+cruz,WY,Wyoming,R,74.15
+sanders,AK,Alaska,R,2.6
+sanders,AL,Alabama,R,0.18
+sanders,AR,Arkansas,R,0.17
+sanders,AZ,Arizona,R,0.61
+sanders,CA,California,D,1.79
+sanders,CO,Colorado,D,0.6
+sanders,CT,Connecticut,D,1.88
+sanders,DC,Washington DC,D,0.11
+sanders,DE,Delaware,D,0.17
+sanders,FL,Florida,D,0.34
+sanders,GA,Georgia,R,0.11
+sanders,HI,Hawaii,D,1.37
+sanders,IA,Iowa,D,1.11
+sanders,ID,Idaho,R,0.69
+sanders,IL,Illinois,D,1.2
+sanders,IN,Indiana,R,0.77
+sanders,KS,Kansas,R,0.56
+sanders,KY,Kentucky,R,0.23
+sanders,LA,Louisiana,R,0
+sanders,MA,Massachusetts,D,4.34
+sanders,MD,Maryland,D,0.87
+sanders,ME,Maine,D,1.64
+sanders,MI,Michigan,D,0.76
+sanders,MN,Minnesota,D,0.88
+sanders,MO,Missouri,R,0.37
+sanders,MS,Mississippi,R,0.07
+sanders,MT,Montana,R,1.01
+sanders,NC,North Carolina,R,0.3
+sanders,ND,North Dakota,R,0
+sanders,NE,Nebraska,R,0.1
+sanders,NH,New Hampshire,D,4.36
+sanders,NJ,New Jersey,D,0.79
+sanders,NM,New Mexico,D,2.01
+sanders,NV,Nevada,D,0.21
+sanders,NY,New York,D,1.25
+sanders,OH,Ohio,D,0.44
+sanders,OK,Oklahoma,R,0.08
+sanders,OR,Oregon,D,1.92
+sanders,PA,Pennsylvania,D,0.87
+sanders,RI,Rhode Island,D,3.75
+sanders,SC,South Carolina,R,0
+sanders,SD,South Dakota,R,0
+sanders,TN,Tennessee,R,0.52
+sanders,TX,Texas,R,0.81
+sanders,UT,Utah,R,0.18
+sanders,VA,Virginia,D,0.44
+sanders,VT,Vermont,D,61.07
+sanders,WA,Washington,D,1.45
+sanders,WI,Wisconsin,D,1.18
+sanders,WV,West Virginia,R,0.13
+sanders,WY,Wyoming,R,1.42
+bush,AK,Alaska,R,8.66
+bush,AL,Alabama,R,49.46
+bush,AR,Arkansas,R,55.56
+bush,AZ,Arizona,R,30.86
+bush,CA,California,D,72.82
+bush,CO,Colorado,D,39.81
+bush,CT,Connecticut,D,253.39
+bush,DC,Washington DC,D,983.58
+bush,DE,Delaware,D,20.71
+bush,FL,Florida,D,266.21
+bush,GA,Georgia,R,72.14
+bush,HI,Hawaii,D,3.82
+bush,IA,Iowa,D,18.96
+bush,ID,Idaho,R,16.24
+bush,IL,Illinois,D,41.81
+bush,IN,Indiana,R,41.47
+bush,KS,Kansas,R,23.44
+bush,KY,Kentucky,R,11.06
+bush,LA,Louisiana,R,58.49
+bush,MA,Massachusetts,D,50.55
+bush,MD,Maryland,D,65.06
+bush,ME,Maine,D,96.48
+bush,MI,Michigan,D,47.24
+bush,MN,Minnesota,D,23.93
+bush,MO,Missouri,R,50.35
+bush,MS,Mississippi,R,38.63
+bush,MT,Montana,R,28.86
+bush,NC,North Carolina,R,38.81
+bush,ND,North Dakota,R,10.89
+bush,NE,Nebraska,R,12.3
+bush,NH,New Hampshire,D,39.37
+bush,NJ,New Jersey,D,88.28
+bush,NM,New Mexico,D,8.29
+bush,NV,Nevada,D,85.27
+bush,NY,New York,D,156.49
+bush,OH,Ohio,D,19.83
+bush,OK,Oklahoma,R,54.81
+bush,OR,Oregon,D,46.74
+bush,PA,Pennsylvania,D,17.19
+bush,RI,Rhode Island,D,55.29
+bush,SC,South Carolina,R,34.61
+bush,SD,South Dakota,R,6.75
+bush,TN,Tennessee,R,106.38
+bush,TX,Texas,R,101.48
+bush,UT,Utah,R,96.07
+bush,VA,Virginia,D,142.46
+bush,VT,Vermont,D,14.54
+bush,WA,Washington,D,38.63
+bush,WI,Wisconsin,D,13.33
+bush,WV,West Virginia,R,5.26
+bush,WY,Wyoming,R,33.62
+trump,AK,Alaska,R,4.68
+trump,AL,Alabama,R,3.57
+trump,AR,Arkansas,R,1.58
+trump,AZ,Arizona,R,4.08
+trump,CA,California,D,3.45
+trump,CO,Colorado,D,8.04
+trump,CT,Connecticut,D,2.89
+trump,DC,Washington DC,D,4.45
+trump,DE,Delaware,D,0.89
+trump,FL,Florida,D,7.06
+trump,GA,Georgia,R,3.44
+trump,HI,Hawaii,D,7
+trump,IA,Iowa,D,4.26
+trump,ID,Idaho,R,2.69
+trump,IL,Illinois,D,1.77
+trump,IN,Indiana,R,1.15
+trump,KS,Kansas,R,2.56
+trump,KY,Kentucky,R,1.58
+trump,LA,Louisiana,R,5.25
+trump,MA,Massachusetts,D,18.5
+trump,MD,Maryland,D,1.98
+trump,ME,Maine,D,0.98
+trump,MI,Michigan,D,1.13
+trump,MN,Minnesota,D,1.2
+trump,MO,Missouri,R,0.93
+trump,MS,Mississippi,R,4.48
+trump,MT,Montana,R,4.75
+trump,NC,North Carolina,R,1.32
+trump,ND,North Dakota,R,3.34
+trump,NE,Nebraska,R,2.88
+trump,NH,New Hampshire,D,5.97
+trump,NJ,New Jersey,D,1.97
+trump,NM,New Mexico,D,1.16
+trump,NV,Nevada,D,6.84
+trump,NY,New York,D,3.71
+trump,OH,Ohio,D,1.82
+trump,OK,Oklahoma,R,3.07
+trump,OR,Oregon,D,1.28
+trump,PA,Pennsylvania,D,1.79
+trump,RI,Rhode Island,D,4.16
+trump,SC,South Carolina,R,5.65
+trump,SD,South Dakota,R,3.62
+trump,TN,Tennessee,R,4.91
+trump,TX,Texas,R,5.75
+trump,UT,Utah,R,0.94
+trump,VA,Virginia,D,2.39
+trump,VT,Vermont,D,0.4
+trump,WA,Washington,D,3.11
+trump,WI,Wisconsin,D,2.71
+trump,WV,West Virginia,R,1.72
+trump,WY,Wyoming,R,1.38
